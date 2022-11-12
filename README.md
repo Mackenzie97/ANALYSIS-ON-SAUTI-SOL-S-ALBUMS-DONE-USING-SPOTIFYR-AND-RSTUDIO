@@ -11,3 +11,6 @@ I was able to visualize the Energy, Danceability and Valence (valence describes 
 
 
 ![A plot of Valence distributions across the Albums](https://user-images.githubusercontent.com/43335958/201371285-24882e45-dad4-45cf-8937-b5a17489ec75.png)
+
+
+![A Bar Plot to Determine the Album with the highest Tempo](https://user-images.githubusercontent.com/43335958/201473457-7e8ac21a-eea9-416f-9267-d045555df199.png)
